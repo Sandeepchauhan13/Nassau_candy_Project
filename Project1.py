@@ -1,10 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-
-
 import numpy as np
-
 import plotly.graph_objects as go
 
 # st.title("Nassau Candy Distributor")
@@ -556,3 +553,12 @@ st.dataframe(
     use_container_width=True,
     hide_index=True
 )
+
+
+st.link_button(
+    "⭐ Visit My GitHub",
+    "https://github.com/sandeepchauhan13",
+    icon=":material/code:",
+    type="primary"
+)
+
