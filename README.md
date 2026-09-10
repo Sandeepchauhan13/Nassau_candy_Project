@@ -29,12 +29,4 @@ Key objectives
 ✅ Build an interactive dashboard for business users
 
 
-🛠️ Technologies Used
-Technology	Purpose
-🐍 Python	Data analysis & processing
-🐼 Pandas	Data cleaning & aggregation
-📊 Plotly	Interactive visualizations
-🎨 Streamlit	Interactive web dashboard
-📈 Power BI	Business intelligence & reporting
-📄 CSV	Source dataset
-💻 Jupyter Notebook	Data exploration
+
