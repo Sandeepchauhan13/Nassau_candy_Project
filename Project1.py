@@ -21,7 +21,7 @@ st.markdown(
 )
 
 st.set_page_config(
-    page_title="Project Candy",
+    page_title="Project Candy Data Science",
     page_icon="🍭",
     layout = "wide"
 )
